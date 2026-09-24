@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "VDERR/dsh-echocat-prettier",
+  "name": "dsh-echocat-prettier",
+  "repository": "https://github.com/VDERR/dsh-echocat-prettier",
+  "category": "theme",
+  "description": {
+    "en": "Styles DSH AI replies with visual themes, layout presets, per-theme colors, emoji, optional topic-matched memes, and long-answer performance safeguards.",
+    "zh": "为 DSH AI 回复提供视觉主题、排版预设、独立配色、emoji、可选的主题表情包与长回复性能保护。"
+  },
+  "added": "2026-09-24"
+}
